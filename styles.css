@@ -1,0 +1,18 @@
+body {
+    background-color: antiquewhite;
+}
+h1 {
+    color: green;
+    font-size: 28px;
+    text-align: center;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li {
+    color: green;
+    font-weight: bold;
+}
